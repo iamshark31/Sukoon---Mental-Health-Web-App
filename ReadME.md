@@ -38,7 +38,6 @@ Read and like mental health-related articles. Engage with others through posts a
    VITE_REACT_APP_MESSAGING_SENDER_ID= 
    VITE_REACT_APP_APP_ID= 
    VITE_REACT_APP_MEASUREMENT_ID= 
-   VITE_REACT_APP_API_HOST=https://zenzone.onrender.com
 
 5. Start the server and client app.
    
